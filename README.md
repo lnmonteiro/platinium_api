@@ -1,4 +1,4 @@
-# Platinium API 🚀
+# Platinium APIs 🚀
 
 API REST desenvolvida em Python usando Azure Functions para o aplicativo de Inteligência Emocional Platinium.
 
